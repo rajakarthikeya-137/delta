@@ -1,2 +1,0 @@
-# delta
-this is delta..
